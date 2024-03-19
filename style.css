@@ -1,0 +1,15 @@
+main{
+    margin: 70px 40px;
+    display: flex;
+}
+#profile{
+       flex: 1;
+}
+#data{
+    flex: 3;
+    display: flex;
+    flex-wrap: wrap;
+}
+.cartegory{
+    width: 32%;
+}
